@@ -3,7 +3,7 @@
 ## Identitas Mahasiswa
 - Nama: Siniar Wati Wau
 - NIM: 221011450523
-- Kelas: [Isi Reg B]
+- Kelas: Isi Reg B
 
 ## Deskripsi Tugas
 Tugas UTS mata kuliah Machine Learning mengenai Linear Regression dan Logistic Regression.
